@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "title": "BITS Pilani receives “highest-ever” individual alumni gift",
+    "desc": "MapmyIndia’s Rakesh Verma gifts ₹15 crore; a new convention centre to come up by 2026",
+    "status": "READING",
+    "contentType": "FINANCE",
+    "dateCreated": "2022-03-27T00:54:13.0419044",
+    "dateUpdated": null,
+    "url": "https://www.thehindubusinessline.com/news/education/bits-pilani-receives-highest-ever-individual-alumni-gift/article66603314.ece"
+  },
+  {
+    "id": null,
+    "title": "Masts like a forest",
+    "desc": "Medieval chinese navies",
+    "status": "TO_BE_READ",
+    "contentType": "HISTORY",
+    "dateCreated": "2023-01-27T00:42:23.0419044",
+    "dateUpdated": null,
+    "url": "https://aeon.co/essays/the-tree-as-foot-soldier-of-chinese-merchants-and-empires"
+  },
+  {
+    "id": null,
+    "title": "FM's suggestions on financing",
+    "desc": "FM Nirmala Sitharaman suggests AIIB to use innovative financing ways to address infra needs",
+    "status": "READING",
+    "contentType": "FINANCE",
+    "dateCreated": "2023-05-24T13:42:23.0419044",
+    "dateUpdated": null,
+    "url": "https://timesofindia.indiatimes.com/business/india-business/finance-minister-nirmala-sitharaman-suggests-aiib-to-use-innovative-financing-ways-to-address-infra-needs/articleshow/101800165.cms"
+  },
+  {
+    "id": null,
+    "title": "Solar Power of India",
+    "desc": "India’s solar module manufacturing ambitions",
+    "status": "SUMMARISING",
+    "contentType": "FINANCE",
+    "dateCreated": "2022-05-17T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://finshots.in/archive/indias-solar-module-manufacturing-ambitions/"
+  },
+  {
+    "id": null,
+    "title": "Chaucer the game",
+    "desc": "A close reading of Chaucer's ‘The Merchant’s Prologue and Tale'",
+    "status": "COMPLETED",
+    "contentType": "LITERATURE",
+    "dateCreated": "2023-02-14T00:00:00.000000",
+    "dateUpdated": null,
+    "url": "https://www.bl.uk/medieval-literature/articles/a-close-reading-of-chaucers-the-merchants-prologue-and-tale"
+  }
+]
